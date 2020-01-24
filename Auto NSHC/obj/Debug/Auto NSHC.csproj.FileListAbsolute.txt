@@ -1,0 +1,38 @@
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\Auto NSHC.exe.config
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\Auto NSHC.exe
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\Auto NSHC.pdb
+D:\Auto NSHC\Auto NSHC\Auto NSHC\obj\Debug\Auto NSHC.csprojResolveAssemblyReference.cache
+D:\Auto NSHC\Auto NSHC\Auto NSHC\obj\Debug\Auto_NSHC.Form1.resources
+D:\Auto NSHC\Auto NSHC\Auto NSHC\obj\Debug\Auto_NSHC.Properties.Resources.resources
+D:\Auto NSHC\Auto NSHC\Auto NSHC\obj\Debug\Auto NSHC.csproj.GenerateResource.Cache
+D:\Auto NSHC\Auto NSHC\Auto NSHC\obj\Debug\Auto NSHC.exe
+D:\Auto NSHC\Auto NSHC\Auto NSHC\obj\Debug\Auto NSHC.pdb
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\x64\concrt140.dll
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\x64\cvextern.dll
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\x64\msvcp140.dll
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\x64\vcruntime140.dll
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\x86\concrt140.dll
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\x86\cvextern.dll
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\x86\msvcp140.dll
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\x86\vcruntime140.dll
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\Emgu.CV.UI.dll
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\Emgu.CV.World.dll
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\ZedGraph.dll
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\Emgu.CV.UI.xml
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\Emgu.CV.World.xml
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\ZedGraph.xml
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\de\ZedGraph.resources.dll
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\es\ZedGraph.resources.dll
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\fr\ZedGraph.resources.dll
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\hu\ZedGraph.resources.dll
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\it\ZedGraph.resources.dll
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\ja\ZedGraph.resources.dll
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\pt\ZedGraph.resources.dll
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\ru\ZedGraph.resources.dll
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\sk\ZedGraph.resources.dll
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\sv\ZedGraph.resources.dll
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\tr\ZedGraph.resources.dll
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Auto NSHC\Auto NSHC\Auto NSHC\bin\Debug\zh-tw\ZedGraph.resources.dll
